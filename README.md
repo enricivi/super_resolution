@@ -9,7 +9,7 @@ Methods implemented on matlab with Matteo Nesti (m.nesti@gmail.com):
 	   
 	2. Authors:  S. Farsiu, M. Dirk Robinson, M. Elad, P. Milanfar
 	   Paper: Fast and Robust Multiframe Super Resolution
-The two papers can be found click on [Elad and Hel-Or](http://ieeexplore.ieee.org/document/935034/) or [Milanfar et al.](https://ieeexplore.ieee.org/document/1246674/)
+The two papers can be found click on [Elad and Hel-Or](http://ieeexplore.ieee.org/document/935034/) or [Milanfar et al.](http://ieeexplore.ieee.org/document/1246674/)
 
 
 
