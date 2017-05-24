@@ -11,4 +11,4 @@ Methods implemented on matlab with Matteo Nesti (m.nesti@gmail.com):
 	   Paper: Fast and Robust Multiframe Super Resolution
 The two papers can be found click on [Elad and Hel-Or](http://ieeexplore.ieee.org/document/935034/) or [Milanfar et al.](http://ieeexplore.ieee.org/document/1246674/)
 
-Run SR.m inside the folder to test the script on "text" images
+## Run SR.m inside the folder to test the script on "text" images
