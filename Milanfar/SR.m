@@ -4,7 +4,7 @@ clear all; close all; clc;
 %% parameters
 nimg = 20;
 niter = 80;      
-scale = 2;       % size(HR) = scale * size(LR)
+scale = 3;       % size(HR) = scale * size(LR)
 beta = 1;        
 lambda = 0.05;   
 alpha = 0.6;     
