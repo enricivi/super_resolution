@@ -12,4 +12,4 @@ Methods implemented on matlab with Matteo Nesti (m.nesti@gmail.com):
 The two papers can be found click on [Elad and Hel-Or](http://ieeexplore.ieee.org/document/935034/) or [Milanfar et al.](http://ieeexplore.ieee.org/document/1246674/)
 
 ## Run SR.m inside the folder to test the script on "text-test" images.
-#### Note that on Milanfar implementation the parameters have to be choice in order to obtain the best result.
+#### Note that on Milanfar implementation the parameters have to be choose in order to obtain the best result.
